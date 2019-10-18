@@ -1,0 +1,5 @@
+Hello.. this is file i/o in python
+Hello.. this is file i/o in python
+Hello.. this is file i/o in python
+Hello.. this is file i/o in python
+This is example of writing in a fileThis is example of writing in a fileThis is example of writing in a file
