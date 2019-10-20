@@ -15,3 +15,12 @@ operators- airthmetic, assignment,comparison, logical, identity,membership and b
 functions and docstrings
 exception handling
 file i/o- read, write,append and tell(), seek() function and with block.
+recursion example 
+fibonacci sequence using recursion 
+enumerate function 
+join function 
+time module 
+f string 
+import in python
+name to main function
+args and kwargs
