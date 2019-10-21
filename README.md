@@ -24,3 +24,6 @@ f string
 import in python
 name to main function
 args and kwargs
+lambda function
+map, filter and reduce function 
+concept of object oriented programming including- classes and objects, inheritance- single, multiple and multi level inheritance,abstraction and encapsulation, instance and class variables, self and init constructors, class methods, class methods as alternative constructors, static methods
