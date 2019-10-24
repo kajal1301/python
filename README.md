@@ -26,4 +26,19 @@ name to main function
 args and kwargs
 lambda function
 map, filter and reduce function 
-concept of object oriented programming including- classes and objects, inheritance- single, multiple and multi level inheritance,abstraction and encapsulation, instance and class variables, self and init constructors, class methods, class methods as alternative constructors, static methods
+concept of object oriented programming including- classes and objects, inheritance- single, multiple and multi level inheritance,abstraction and encapsulation, instance and class variables, self and init constructors, class methods, class methods as alternative constructors, static methods, Public, private and protected Access specifiers, polymorphism, super and overriding classes, operator overloading and Dunder methods
+Diamond shape problem in multiple inheritance
+ Abstract Base class
+ setters and property decorators
+ Object Introspection
+ Generators
+ Comprehensions
+ else with for loops
+ Function Caching
+ else and finally in try except
+ coroutines
+ os module
+ requests module
+ json module
+ pickle module
+ regular expressions
